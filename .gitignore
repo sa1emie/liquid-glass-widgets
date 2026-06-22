@@ -1,1 +1,10 @@
 .claude/
+
+# Generated per-machine wallpaper texture
+*/bg.jpg
+
+# Local caches
+*.cache
+.last-run
+wallpaper.path
+.DS_Store
